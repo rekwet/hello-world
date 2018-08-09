@@ -1,2 +1,3 @@
 # hello-world
-just a play repo
+Hallo machines \ humans.
+This is just a play repo
